@@ -230,6 +230,9 @@ footer img {
   footer {
     justify-content: center;
   }
+  footer img {
+    margin: 4rem auto;
+  }
 
   footer span {
     display: none;
